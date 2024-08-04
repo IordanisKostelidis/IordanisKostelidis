@@ -1,24 +1,26 @@
 # Iordanis Kostelidis
-Final Year Informatics and Software Enginnering Student at [IHU](https://ihu.gr),
-Chair at [IEEE IHU - Serres](https://ieee-serres.org) and Software Engineer at 
-[DataScouting](https://datascouting.com) and [HERMES Team](https://HERMESTeam.eu)
-### Professional Experience
-* Software Engineer, [DataScouting](https://datascouting.com), Dec 2018 - Present
-* Software Engineer, [HERMES Team](https://hermesteam.eu), Oct 2018 - Present
-* Content Creator, [Digital Minds](https://digitalminds.com), Jan 2014 - Sep 2019
-* Co-Founder and Owner, TechLimitTV.eu, Sep 2012 - Sep 2019
-### Education
-* Informatics & Software Engineering, [International Hellenic University](https://ihu.gr), Sep 2013 - Present
-### Volunteer Experience
-* Chair, [IEEE International Hellenic University - Serres](https://ieee-serres.org), Mar 2019 - Present
-* Founding Member, [IEEE RAS International Hellenic University - Serres](https://ras.ieee-serres.org), Jun 2018 - Present
-* Vice-Chair, [IEEE International Hellenic University - Serres](https://ieee-serres.org), Jan 2017 - Mar 2019
-* Member, [IEEE International Hellenic University - Serres](https://ieee-serres.org), Oct 2015 - Present
-* Member, [IEEE](https://ieee.org), Oct 2015 - Present
-### Awards
-* 2nd Place, HERMES, [Better Life Challenge](https://thankstotech.kotsovolos.gr/#contestInfo), [KOTSOVOLOS](https://kotsovolos.gr), 2020
-* 1st Place, Team with Pavlos Kokozidis, [Datathon](http://data.dai.uom.gr/datathon2018/), [University of Macedonia](http://uom.gr), 2018
-* 2nd Place, NeXT Tech Solutions, Serres Hackathon, [International Hellenic University](https://ihu.gr) & [SerresTech](https://serrestech.gr), 2017
-# Certificates
-* Building Blocks for IoT, [Aristotle University of Thessaloniki](https://auth.gr), 2017
-* Grow Greek Tourism Online, [Google](https://google.com), Sep 2016
+
+I am a dedicated and innovative software engineer with a [BEng in Informatics](https://ict.ihu.gr), hailing from the
+vibrant city of Thessaloniki, Greece. Since 2018, I have been working as a software engineer
+at [DataScouting](https://datascouting.com),
+continuously honing my skills and contributing to various impactful projects.
+
+In addition to my professional endeavors, I co-founded and served as a software and embedded systems engineer for the
+[HERMES Team](https://hermesteam.eu), a cross-university project between
+the [IEEE IHU RAS Student Branch Chapter (Serres Campus)](https://ras.ieeeihuserres.org) and the [IEEE
+University of Thessaly Student Branch (Volos Campus)](https://ieee.e-ce.uth.gr). Our team developed a Powered
+Exoskeleton for the [CYBATHLON](https://cybathlon.ethz.ch/en) competition, a groundbreaking project that now continues
+under the [Electrical and Computer Engineering (ECE) department at UTh](https://e-ce.uth.gr). Being a mentor for HERMES
+has been a cornerstone of my career, allowing me to guide and inspire budding engineers while working on cutting-edge
+projects that push the boundaries of technology.
+
+I also served my mandatory military service (2023-2024) as a Research and Informatics Corps Private at the XXV Armored
+Brigade in Xanthi, Greece. This experience further enriched my technical and problem-solving abilities while instilling
+a strong sense of discipline and teamwork.
+
+As an active volunteer and member of [IEEE](https://ieee.org) and [IEEE Young Professionals (YP)](https://yp.ieee.org),
+I am passionate about fostering innovation, sharing knowledge, and driving positive change within the tech community.
+
+I thrive on challenges that require creative problem-solving and enjoy collaborating with like-minded professionals to
+create impactful solutions. My goal is to continue leveraging my skills and experiences to contribute to the
+ever-evolving field of technology.
